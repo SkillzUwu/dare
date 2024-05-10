@@ -1,4 +1,3 @@
-# dare
 <html>
 <head>
 <title>Welcome to the Dare Portal!</title>
